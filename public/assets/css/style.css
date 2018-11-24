@@ -35,3 +35,17 @@ html,body {
     border: 2px black solid;
     padding:15px;
 }
+ul {
+    list-style: none;
+    padding-left:0px;
+}
+li {
+    border: 1px solid black;
+    margin:5px;
+    border-radius:10px;
+    padding:5px;
+    background-color:rgba(255,255,255,0.7);
+}
+.section-header {
+    font-size:25px;
+}
